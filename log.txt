@@ -1,0 +1,29 @@
+"2020-
+-28 20:39:19.000": Responded to agent "#JOIN" with "192.168.1.67"
+"2020-11-28 20:39:19.000": Responded to agent "192.168.1.67" with "$OK"
+"2020-
+-28 20:39:24.000": Responded to agent "#JOIN" with "192.168.1.81"
+"2020-11-28 20:39:24.000": Responded to agent "192.168.1.81" with "$OK"
+"2020-
+-28 20:39:31.000": Responded to agent "#JOIN" with "192.168.1.104"
+"2020-11-28 20:39:31.000": Responded to agent "192.168.1.104" with "$OK"
+"2020-
+-28 20:39:50.000": Responded to agent "#LIST" with "192.168.1.67"
+"2020-11-28 20:39:50.000": Responded to agent "192.168.1.67" with "List shown"
+"2020-
+-28 20:39:56.000": Responded to agent "#LEAVE" with "192.168.1.67"
+"2020-
+-28 20:40:30.000": Responded to agent "#LIST" with "192.168.1.67"
+"2020-11-28 20:40:30.000": No response: "192.168.1.67" (AGENT IS NOT ACTIVE)
+"2020-
+-28 20:40:49.000": Responded to agent "#LEAVES" with "192.168.1.81"
+"2020-11-28 20:40:49.000": No response: "192.168.1.81" (AGENT IS NOT ACTIVE)
+"2020-
+-28 20:40:53.000": Responded to agent "#LEAVES" with "192.168.1.81"
+"2020-11-28 20:40:53.000": No response: "192.168.1.81" (AGENT IS NOT ACTIVE)
+"2020-
+-28 20:41:03.000": Responded to agent "#LIST" with "192.168.1.104"
+"2020-11-28 20:41:03.000": Responded to agent "192.168.1.104" with "List shown"
+"2020-
+-28 20:41:20.000": Responded to agent "#LOG" with "192.168.1.104"
+"2020-11-28 20:41:20.000": Responded to agent "192.168.1.104" with "LOG WRITTEN AS: log.txt"
